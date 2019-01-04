@@ -5,7 +5,7 @@ Plugin URI: https://my-azur.de
 Description: Prompt befor publish article
 Author: Marco Krage
 Version: 1.0
-Author URI: http://my-azur.de
+Author URI: https://my-azur.de
 */
 
 
